@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="ejercicio1_title">Es primo?</string>
+    <string name="ejercicio1_number">Introduce un numero</string>
+    <string name="ejercicio1_resultado">Resultado</string>
+    <string name="ejercicio1_error">Debe introducir un numero</string>
+    <string name="ejercicio1_yes">Si</string>
+    <string name="ejercicio1_no">No</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="ejercicio3">Ejercicio 3</string>
+</resources>
